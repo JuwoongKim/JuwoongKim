@@ -54,22 +54,22 @@ Juwoong은 저의 방향성과 학습기록을 정리하기 위한 저장소 입
     - 004.JAVA
     - 005.Spring
     - 006.JS_TS
-    - 007...JS
-    - 008.Go
-    - 009.Python
-    - 010.Script
-    - 011.Linux
-    - 012.Database
-    - 013.Network
-    - 014.AWS
-    - 015.GCP
+    - 007..JS
+    - 008.Kotln
+    - 009.Android
+    - 010.Go
+    - 011.Python
+    - 012.Script
+    - 013.Linux
+    - 014.Database
+    - 015.Network
     - 016.Programing(Design_Pattern_Develop_Principle)
     - 017.Arcitecture
     - 018.APIs
     - 019.Caching
     - 020.Testing
     - 021.Web Security Knowledge
-
+    - 099.Temp
 </br>
 
 - 002.직무별자료정리모음
