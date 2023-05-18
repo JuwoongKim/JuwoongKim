@@ -10,7 +10,9 @@
 
 #### 학습기록
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://spark-earwig-6da.notion.site/637d0b94cc8a46658c97ef0a2517db6c)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://spark-earwig-6da.notion.site/637d0b94cc8a46658c97ef0a2517db6c)
+
+
 
 
 
